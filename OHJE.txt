@@ -1,0 +1,11 @@
+OMA TALOUS V5 – PUHELINVERSIO
+
+Tämä ZIP on asennettavan verkkosovelluksen lähdekoodipaketti, ei Androidin APK-asennustiedosto.
+
+1. Säilytä tietokoneen V4 ja JSON-varmuuskopio.
+2. Sovelluksen asennus Honor-puhelimen Chromeen vaatii HTTPS-osoitteen (esim. staattisen sivuston julkaisupalvelu). Pelkkä ZIP:n purkaminen ei asenna sovellusta.
+3. Kun sovellus on HTTPS-osoitteessa, avaa osoite puhelimen Chromessa ja valitse valikosta Asenna sovellus tai Lisää aloitusnäyttöön.
+4. Siirrä varmuuskopio puhelimeen ja palauta se sovelluksessa Asetukset > Palauta JSON-varmuuskopio.
+5. Tarkista saldot ja varaukset. Käytä sen jälkeen ensisijaisesti puhelinta; tietokone ja puhelin eivät synkronoidu automaattisesti.
+
+Huom: verkkosivuston lähdekoodi ei sisällä omia taloustietojasi; ne ovat selaimen paikallisessa tallennustilassa. Älä julkaise JSON-varmuuskopiota.
